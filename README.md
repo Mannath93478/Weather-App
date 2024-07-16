@@ -11,7 +11,7 @@ Introducing my weather app built in JavaScript! With data sourced from OpenWeath
 
 Live Demo:
 
-
+https://mannath-weather-app.netlify.app/
 
 ![alt text](images/demo.png)
 
